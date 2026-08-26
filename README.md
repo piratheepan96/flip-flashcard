@@ -2,11 +2,18 @@
 
 A simple flashcard built with just HTML & CSS. Click the card to flip between the question (front) and the answer (back) — powered entirely by CSS 3D transforms, no JavaScript required.
 
+🔗 **Repository:** [github.com/piratheepan96/flip-flashcard](https://github.com/piratheepan96/flip-flashcard)
+
 ## 🔗 Live Demo
-_(Add your GitHub Pages link here once deployed)_
+[View Live Demo](https://piratheepan96.github.io/flip-flashcard/)
 
 ## 📸 Preview
-_(Add a screenshot or GIF here once you've built it)_
+
+**Front (Question)**
+![Flashcard Front](images/flashcard-front.png)
+
+**Back (Answer)**
+![Flashcard Back](images/flashcard-back.png)
 
 ## Features
 - Pure HTML & CSS (no JavaScript)
@@ -26,8 +33,11 @@ _(Add a screenshot or GIF here once you've built it)_
 
 ## What I Learned
 - How CSS `transform-style: preserve-3d` and `backface-visibility` work together
-- Using `:checked` or `:hover`/click state to trigger animations without JS
+- Using the `:focus` state with `tabindex` to trigger animations without JS
 - Basic responsive centering with Flexbox
 
 ## Author
-K.Piratheepan
+[piratheepan96](https://github.com/piratheepan96)
+
+## License
+MIT
