@@ -20,7 +20,7 @@ _(Add a screenshot or GIF here once you've built it)_
 ## Getting Started
 1. Clone this repo
    ```bash
-   git clone https://github.com/your-username/flip-flashcard.git
+   git clone https://github.com/piratheepan96/flip-flashcard.git
    ```
 2. Open `index.html` in your browser
 
@@ -30,7 +30,4 @@ _(Add a screenshot or GIF here once you've built it)_
 - Basic responsive centering with Flexbox
 
 ## Author
-Your Name
-
-## License
-MIT
+K.Piratheepan
