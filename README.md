@@ -7,13 +7,16 @@ A simple flashcard built with just HTML & CSS. Click the card to flip between th
 ## 🔗 Live Demo
 [View Live Demo](https://piratheepan96.github.io/flip-flashcard/)
 
+### 🎥 Demo Video
+<video src="https://github.com/piratheepan96/flip-flashcard/raw/main/demo.mp4" controls width="400"></video>
+
 ## 📸 Preview
 
 **Front (Question)**
-![Flashcard Front](images/flashcard-front.png)
+![Flashcard Front](flashcard-front.png)
 
 **Back (Answer)**
-![Flashcard Back](images/flashcard-back.png)
+![Flashcard Back](flashcard-back.png)
 
 ## Features
 - Pure HTML & CSS (no JavaScript)
