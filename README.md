@@ -7,8 +7,6 @@ A simple flashcard built with just HTML & CSS. Click the card to flip between th
 ## 🔗 Live Demo
 [View Live Demo](https://piratheepan96.github.io/flip-flashcard/)
 
-🎥 [Watch Demo Video](demo.mp4)
-
 ## 📸 Preview
 
 **Front (Question)**
